@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Omii9600/shopping-app/static/css/main.7c3801ff.css",
+    "main.js": "/Omii9600/shopping-app/static/js/main.0b6acc64.js",
+    "index.html": "/Omii9600/shopping-app/index.html",
+    "main.7c3801ff.css.map": "/Omii9600/shopping-app/static/css/main.7c3801ff.css.map",
+    "main.0b6acc64.js.map": "/Omii9600/shopping-app/static/js/main.0b6acc64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3801ff.css",
+    "static/js/main.0b6acc64.js"
+  ]
+}
