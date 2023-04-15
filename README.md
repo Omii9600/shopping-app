@@ -3,4 +3,4 @@ A shopping built using react and redux
 
 To view this project:
 
-Click On https://willowy-hotteok-133b98.netlify.app
+Click On https://aesthetic-sherbet-c89ce3.netlify.app
